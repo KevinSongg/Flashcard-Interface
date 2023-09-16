@@ -1,6 +1,6 @@
 # Flashcard-Interface
 
-Worked alongside a team of four group memebers to plan, design and evaluate a prototype interface to solve a problem in the world. Our group chose to create a flashcard interface that is intuitive to help solve the tedious task of creating high quality flashcards. This was done by conducting two research studies the first being a project proposal to see if our interface and ideas would solve the needs of students. The second study helped confirm the original studies results by creating a medium-fidelity prototype with Figma for the students to test and give feedback on what can be improved. 
+Worked alongside a team of four group members to plan, design and evaluate a prototype interface to solve a problem in the world. Our group chose to create a flashcard interface that is intuitive to help solve the tedious task of creating high quality flashcards. This was done by conducting two research studies the first being a project proposal to see if our interface and ideas would solve the needs of students. The second study helped confirm the original studies results by creating a medium-fidelity prototype with Figma for the students to test and give feedback on what can be improved. 
 
 Here is the progress of our prototype interfaces starting with our brainstorm to our low-fidelity prototype and finally our medium-fidelity prototype.
 
